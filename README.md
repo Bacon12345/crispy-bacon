@@ -1,3 +1,0 @@
-# crispy-bacon
-Just testing
-the beginning...
